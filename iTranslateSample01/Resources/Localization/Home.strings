@@ -1,0 +1,15 @@
+/* 
+  Home.strings
+  iTranslateSample01
+
+  Created by Moataz Afifi on 21/10/2019.
+  Copyright © 2019 iTranslate. All rights reserved.
+*/
+
+"error" = "Error";
+"permissionError" = "Don't have access to use your microphone. Please go to Settings and turn on the permission";
+"recordingError" = "Recording failed.";
+"maybeLater" = "Maybe later";
+"settings" = "Settings";
+"cancel" = "Cancel";
+"ok" = "OK";
